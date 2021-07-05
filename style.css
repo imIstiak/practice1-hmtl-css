@@ -1,0 +1,31 @@
+body{
+    font-family: 'Yomogi', cursive;
+}
+.photo{
+    border-radius: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 17%;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+
+}
+h3{
+    
+    
+}
+#sub-title{
+    text-align: center;
+    margin: 10px;
+
+}
+p{
+    padding-right: 1%;
+  text-align: center;
+    margin: 20px;
+    
+}
